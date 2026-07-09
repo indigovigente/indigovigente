@@ -72,6 +72,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=indigovigente&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=indigovigente&layout=compact&theme=dracula" />
+</div>
+
+---
+
 ###
 
 <div data-importer="socials" align="center">
