@@ -2,7 +2,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">I am a Back-end Developer with 7 years of experience, working on the development of APIs, distributed systems, and automations that support production operations. I have experience with PHP, Java, Kotlin, TypeScript, and Python, always focusing on quality, scalability, and standardization.</h3>
+<h3 data-importer="text" align="left">I am a Back-end Developer with 7 years of experience, working on the development of APIs, distributed systems, and automations that support production operations. I have experience with PHP, Java, Kotlin, Golang, TypeScript, and Python, always focusing on quality, scalability, and standardization.</h3>
 
 ###
 
